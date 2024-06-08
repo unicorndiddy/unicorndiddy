@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Srisha :)</h1>
-<h3 align="center">A final year Computer Science student, and an Information Security enthusiast. I'm a front-end developer and have a knack for bringing websites to life with intuitive and responsive designs. 🎨💻</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unicorndiddy&label=Profile%20views&color=0e75b6&style=flat" alt="unicorndiddy" /> </p>
+<h3 align="center">A final year Computer Science student, and an Information Security enthusiast. I'm a front-end developer and have a knack for bringing websites to life with intuitive and responsive designs! 🎨💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unicorndiddy" alt="unicorndiddy" /></a> </p>
 
@@ -9,7 +7,7 @@
 
 - 🔭 I’m currently interning at **Citi India, exploring the intersection of technology and finance.**
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 I’m currently learning **Java Full Stack.**
 
 - 👯 I’m looking to collaborate on **innovative projects in front-end development and information security, fostering creativity and teamwork to bring ideas to life.**
 
